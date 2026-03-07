@@ -1,1 +1,21 @@
 Project Scope goes here
+
+4.1 User Accounts
+	•	Student account creation and login
+	•	Optional profile setup (school, major, courses)
+	•	Secure session management
+
+4.2 Saved Textbooks & Watchlist
+	•	Save textbooks to a personal list
+	•	Track multiple textbooks across different courses
+	•	Quick access to previously searched books
+
+4.3 Price Alerts & Notifications
+	•	Notify users when a textbook price drops
+	•	Alerts for newly available cheaper vendors
+	•	Email or in-site notification support
+
+4.4 Purchase History & Comparison Insights
+	•	Track past textbook searches and prices
+	•	Show historical price trends (when available)
+	•	Suggest better alternatives or newer editions
