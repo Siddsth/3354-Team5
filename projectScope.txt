@@ -1,10 +1,10 @@
 1. Project Title
 
-Textbook Backer
+Turning Pages Without Breaking the Bank
 
 2. Project Description
 
-The "Textbook Backer" is going to be a system designed to help students find textbooks required for their courses at the lowest possible prices. The web app is supposed to find textbook listings from different sites and allow students easily to compare prices between other websites track books they need, and receive alerts when cheaper options become available. It aims to reduce the financial burden of purchasing textbooks by finding the most convienent price for the user
+"Turning Pages Without Breaking the Bank" is going to be a system designed to help students find textbooks required for their courses at the lowest possible prices. The web app is supposed to find textbook listings from different sites and allow students easily to compare prices between other websites track books they need, and receive alerts when cheaper options become available. It aims to reduce the financial burden of purchasing textbooks by finding the most convienent price for the user
 
 3. Purpose / Goal
 
