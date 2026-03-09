@@ -14,6 +14,8 @@ College textbooks usually cost alot, and students spend a lot of time searching 
 
 Students – Search for textbooks, track prices, and receive alerts
 
+Administrator – Maintains the system and manages data sources.
+
 5. Core Features
 
 -User Accounts
