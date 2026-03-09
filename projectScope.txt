@@ -1,21 +1,57 @@
-Project Scope goes here
+1. Project Title
 
-4.1 User Accounts
-	•	Student account creation and login
-	•	Optional profile setup (school, major, courses)
-	•	Secure session management
+Textbook Backer
 
-4.2 Saved Textbooks & Watchlist
-	•	Save textbooks to a personal list
-	•	Track multiple textbooks across different courses
-	•	Quick access to previously searched books
+2. Project Description
 
-4.3 Price Alerts & Notifications
-	•	Notify users when a textbook price drops
-	•	Alerts for newly available cheaper vendors
-	•	Email or in-site notification support
+The "Textbook Backer" is going to be a system designed to help students find textbooks required for their courses at the lowest possible prices. The web app is supposed to find textbook listings from different sites and allow students easily to compare prices between other websites track books they need, and receive alerts when cheaper options become available. It aims to reduce the financial burden of purchasing textbooks by finding the most convienent price for the user
 
-4.4 Purchase History & Comparison Insights
-	•	Track past textbook searches and prices
-	•	Show historical price trends (when available)
-	•	Suggest better alternatives or newer editions
+3. Purpose / Goal
+
+College textbooks usually cost alot, and students spend a lot of time searching to find affordable options. The goal of this system is to give those same students a centralized platform where students can quickly search for textbooks, monitor prices, and identify the best deals available.
+
+4. Target Users (Actors)
+
+Students – Search for textbooks, track prices, and receive alerts
+
+5. Core Features
+
+-User Accounts
+
+-Student account creation and login
+
+-Optional profile setup (school, major, courses)
+
+-Secure session management
+
+-Saved Textbooks & Watchlist
+
+-Save textbooks to a personal list
+
+-Track multiple textbooks across different courses
+
+-Quick access to previously searched books
+
+-Price Alerts & Notifications
+
+-Notify users when a textbook price drops
+
+-Alerts for newly available cheaper vendors
+
+-Email or in-site notification support
+
+-Purchase History & Comparison Insights
+
+-Track past textbook searches and prices
+
+-Show historical price trends when available
+
+-Suggest better alternatives or newer editions
+
+6. Scope Limitations
+
+-The system will not directly process textbook purchases.
+
+-Payments and transactions will occur through external websites.
+
+-Price data will depend on available third-party sources.
